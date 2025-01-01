@@ -1,24 +1,24 @@
-# 👋 Hey! Ben Ceyhun  
+# 👋 Hey! I'm Ceyhun  
 
-Ben **Ceyhun Nacak**, algoritma yazmayı seven ve kendini geliştirmeye adayan bir yazılım geliştiricisiyim. Yazılım dünyasında her gün yeni şeyler öğrenmeye ve kod yazarak kendimi geliştirmeye devam ediyorum.  
+I'm **Ceyhun Nacak**, a software developer who loves creating algorithms and is dedicated to continuous self-improvement. Every day, I strive to learn something new and enhance my skills by writing code.  
 
-## 💻 Hakkımda  
+## 💻 About Me  
 
-- 🌟 **Backend Geliştirici:** Daha çok backend alanında deneyimliyim, ancak frontend ve mobil uygulama geliştirme konusunda da kendimi geliştirmeye başladım.  
-- 🛠️ **Teknolojiler:**  
+- 🌟 **Backend Developer:** I have more experience in backend development, but I’ve also started improving my skills in frontend and mobile application development.  
+- 🛠️ **Technologies:**  
   - **Frontend:** HTML, CSS, JavaScript  
   - **Backend:** Python, Java  
-  - **Veritabanı:** SQL (kendimi geliştirmeye devam ediyorum)  
-- 🔍 Problemlere çözüm odaklı yaklaşmayı ve yapılmamış projeler üzerinde çalışmayı seviyorum.  
-- 🎯 Boş zamanlarımda yapılmış projelerin benzerlerini kodlayarak hem pratik yapıyorum hem de daha iyi bir yazılım geliştirici olmayı hedefliyorum.  
+  - **Database:** SQL (currently enhancing my skills)  
+- 🔍 I enjoy solving problems with a focused approach and love working on unique and innovative projects.  
+- 🎯 In my free time, I replicate existing projects to practice and plan to develop original projects to expand my skill set.  
 
-## 🚀 Hedeflerim  
+## 🚀 Goals  
 
-- Daha önce yapılmamış projeleri hayata geçirmek  
-- Yazılım dünyasında daha çok problem çözerek kendimi geliştirmek  
-- Backend, frontend ve SQL alanlarında daha uzman hale gelmek  
+- Create projects that haven’t been done before  
+- Solve more challenging problems in the software world to improve myself  
+- Become an expert in backend, frontend, and SQL  
 
-## 📫 Bana Ulaşın  
+## 📫 Contact Me  
 
 - **LinkedIn:** [Ceyhun Nacak](https://linkedin.com/in/ceyhunnacak)  
-- **E-posta:** ceyhunnacak6@gmail.com  
+- **Email:** ceyhunnacak6@gmail.com  
